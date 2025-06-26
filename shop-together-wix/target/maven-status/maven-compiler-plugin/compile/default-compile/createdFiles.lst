@@ -1,0 +1,7 @@
+com\ekatra\shop_together_wix\service\WixAuthService.class
+com\ekatra\shop_together_wix\ShopTogetherWixApplication.class
+com\ekatra\shop_together_wix\controller\WixOAuthController.class
+com\ekatra\shop_together_wix\dto\WixTokenResponse.class
+com\ekatra\shop_together_wix\controller\WixController.class
+com\ekatra\shop_together_wix\utils\externalServices\WixFeignClient.class
+com\ekatra\shop_together_wix\service\WixService.class
